@@ -1,0 +1,30 @@
+{
+  "name": "washington-redux",
+  "version": "1.0.0",
+  "description": "A plugin to update Washington Racial Epithets to Washington Football Club",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asilluron/washington-redux"
+  },
+  "author": "Andrew Silluron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/checarsner/washington-redux/issues"
+  },
+  "homepage": "https://github.com/checarsner/washington-redux",
+  "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "6.0.14",
+    "babel-preset-es2015": "6.0.14",
+    "chai": "3.4.0",
+    "gulp": "3.9.0",
+    "gulp-babel": "6.0.0",
+    "gulp-concat": "2.6.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-sourcemaps": "1.6.0",
+    "mocha": "2.3.3"
+  }
+}
