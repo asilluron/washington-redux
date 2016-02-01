@@ -1,0 +1,1 @@
+{"version":3,"sources":["smokeTest.js"],"names":[],"mappings":";;;;;QAAgB;AAAT,SAAS,QAAT,CAAkB,CAAlB,EAAqB,CAArB,EAAwB;AAC3B,YAAQ,GAAR,CAAY,CAAZ,EAD2B;AAE7B,WAAO,IAAI,CAAJ,CAFsB;CAAxB","file":"all.js","sourcesContent":["export function smokeSum(a, b) {\n    console.log(a);\n  return a + b;\n}"],"sourceRoot":"/source/"}
